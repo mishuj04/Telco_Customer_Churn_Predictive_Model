@@ -49,8 +49,8 @@ Chosen because it’s simple, interpretable, and effective for binary classifica
 
 | Metric | Score |
 |--------|--------|
-| **Accuracy** | ~0.80 |
-| **ROC-AUC Score** | 0.86 |
+| **Accuracy** | ~0.8147 |
+| **ROC-AUC Score** | 0.861 |
 
 ✅ **Interpretation:**  
 The model performs well at distinguishing between churners and non-churners, with a strong ROC-AUC score.
